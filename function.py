@@ -1,7 +1,5 @@
-def print_rhyme():
-    print('I like rice,')
-    print('Potato is nice')
-    print('There is a mice')
-    print('Need "PY" advice.')
+def printRhyme():
+    print('I eat rice,')
+    print('Python is nice')
 
-print_rhyme()
+printRhyme()
